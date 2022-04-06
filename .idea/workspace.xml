@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="2cfff2f0-98f0-4495-a566-164be147bd42" />
   <component name="ProjectId" id="25jqgH0NDSIIQdptWy8GrxgTj4d" />
   <component name="ProjectViewState">
@@ -135,6 +138,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,36 +160,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649079991446">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1649079991446" />
-    <state x="326" y="15" key="#train" timestamp="1649079110872">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="326" y="15" key="#train/0.0.1280.800@0.0.1280.800" timestamp="1649079110872" />
-    <state width="1280" height="218" key="GridCell.Tab.0.bottom" timestamp="1646065880214">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1280" height="218" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1646065880214" />
-    <state width="1280" height="218" key="GridCell.Tab.0.center" timestamp="1646065880212">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1280" height="218" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1646065880212" />
-    <state width="1280" height="218" key="GridCell.Tab.0.left" timestamp="1646065880212">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1280" height="218" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1646065880212" />
-    <state width="1280" height="218" key="GridCell.Tab.0.right" timestamp="1646065880213">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1280" height="218" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1646065880213" />
-    <state x="141" y="23" key="SettingsEditor" timestamp="1646051622769">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1646051622769" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mycwi_assignment$train.coverage" NAME="train Coverage Results" MODIFIED="1646059764730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
